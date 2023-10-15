@@ -104,8 +104,12 @@
 			<artifactId>MaMuT</artifactId>
 			<scope>test</scope>
 		</dependency>
-		
 
+
+		<dependency>
+			<groupId>org.janelia.saalfeldlab</groupId>
+			<artifactId>n5-universe</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
